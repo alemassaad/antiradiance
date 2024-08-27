@@ -1,0 +1,10 @@
+Processing legoBrick.obj with configuration lego_brick...
+Time taken for legoBrick.obj: 1.0 seconds
+-------------------------------------------
+Processing room_radiosity_small.obj with configuration small_room...
+Time taken for room_radiosity_small.obj: 2209.0 seconds
+-------------------------------------------
+Processing bear.obj with configuration bear...
+Time taken for bear.obj: 6307.0 seconds
+-------------------------------------------
+All meshes processed. Timing results saved in timing_results.log.
